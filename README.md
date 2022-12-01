@@ -31,13 +31,13 @@ Après avoir installé Fabric, un nouveau profil a été créé sur votre client
 ![profil Fabric](https://img001.prntscr.com/file/img001/EhPPK7odSfGWpfJs2iyNrw.jpeg)
 
 ## Ajouter le ressourcepack
-Lancez votre jeu (**profil Fabric**) et rendez-vous dans l'onglet **Options > Ressource Packs**. Cliquez sur **Open Pack Folder** et glissez y **Remodeled-Minecraft1.19.5.zip**.
+Lancez votre jeu (**profil Fabric**) et rendez-vous dans l'onglet **Options > Ressource Packs**. Cliquez sur **Open Pack Folder** et glissez y **Remodeled-Minecraft1.19.5.zip**. ([ressourcepack](https://github.com/clementpicot/minecraft/tree/main/resourcepacks))
 Assurez vous ensuite de bien sélectionner le ressourcepack avant de valider. Vous devriez avoir quelque chose comme ceci :
 ![ressourcepack](https://img001.prntscr.com/file/img001/9a0oLoD6QMKoh6_zCvFpGg.jpeg)
 
 ## Ajouter les shaders
 
-Même principe que pour le ressourcepack, sauf que les shaders se situent dans l'onglet **Options > Video Settings > Shader Packs**. Encore une fois, ouvrez le dossier des Shaders et glissez y le dossier SEUS-Renewed-v1.0.1.zip **ET** le fichier SEUS-Renewed-v1.0.1.zip.txt
+Même principe que pour le ressourcepack, sauf que les shaders se situent dans l'onglet **Options > Video Settings > Shader Packs**. Encore une fois, ouvrez le dossier des Shaders et glissez y le dossier SEUS-Renewed-v1.0.1.zip **ET** le fichier SEUS-Renewed-v1.0.1.zip.txt ([shaders](https://github.com/clementpicot/minecraft/tree/main/shaderpacks))
 Sélectionnez bien les shaders que vous venez d'ajouter et faites **Apply** !
 
 ## Se connecter au serveur
