@@ -31,4 +31,4 @@ Après avoir installé forge, un nouveau profil a été créé sur votre client 
 
 ## 4. Se connecter au serveur
 
-Adresse IP : 00.000.00.0
+Adresse IP : 51.77.137.221
