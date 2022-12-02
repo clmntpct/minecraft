@@ -17,6 +17,7 @@ Trois mods sont prérequis pour lancer le serveur.
 1. Iris : c'est un mod permet d'optimiser les performances de son client minecraft DRASTIQUEMENT lorsqu'on utilise les shaders. Je suis par exemplé passé de 30FPS à 170FPS constants. Et en plus c'est français 🐓
 2. Sodium : C'est un moteur de rendu open-source qui fonctionne avec Iris. Il augmente énormément les perfs !
 3. Simple Voice Chat : c'est un vocal de proximité (normalement tout le monde connait j'ai pas besoin d'expliquer).
+4. Fabric API : comme son nom l'indique, c'est une API ! (pour faire simple elle optimise tout un tas de choses graphiques)
 
 Pour installer ces mods, appuyez simultanément sur **Win + R** et rentrez l'URL suivante :
 
